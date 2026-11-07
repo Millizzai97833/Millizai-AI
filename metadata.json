@@ -1,0 +1,8 @@
+{
+  "name": "Millizai AI - Native Android Assistant",
+  "description": "Complete Android AI application with online & offline chat (GGUF llama.cpp), Palmistry Master, AI Video Studio, image generation, writing & coding assistant, and GitHub Actions APK build by Shahab Millizai.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
